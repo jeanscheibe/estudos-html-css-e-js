@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.227348mm"
+   height="17.975401mm"
+   viewBox="0 0 46.227348 17.975401"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="LOGO.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.985999,-66.563002)">
+    <text
+       xml:space="preserve"
+       style="font-size:10.962px;font-family:'Yu Gothic UI';-inkscape-font-specification:'Yu Gothic UI';fill:#00505f;fill-opacity:1;stroke-width:0.913495"
+       x="13.639496"
+       y="123.8497"
+       id="text1"
+       transform="scale(1.7473347,0.57230019)"
+       inkscape:export-filename="LOGO.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:extra-condensed;font-family:'Saira ExtraCondensed';-inkscape-font-specification:'Saira ExtraCondensed,  Medium Extra-Condensed';fill:#00505f;fill-opacity:1;stroke-width:0.913495"
+         x="13.639496"
+         y="123.8497">JEAN</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:extra-condensed;font-family:'Saira ExtraCondensed';-inkscape-font-specification:'Saira ExtraCondensed,  Medium Extra-Condensed';fill:#00505f;fill-opacity:1;stroke-width:0.913495"
+         x="13.639496"
+         y="138.1514"
+         id="tspan2">SCHEIBE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:extra-condensed;font-size:3.52021px;font-family:'Saira ExtraCondensed';-inkscape-font-specification:'Saira ExtraCondensed,  Medium Extra-Condensed';fill:#00505f;stroke-width:0.29335"
+       x="18.276093"
+       y="111.10053"
+       id="text3"
+       transform="scale(1.322072,0.75638845)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="fill:#00505f;stroke-width:0.29335"
+         x="18.276093"
+         y="111.10053">DESENVOLVENDO COM O CORAÇÃO</tspan></text>
+    <rect
+       style="fill:#d1a02c;fill-opacity:1;stroke:none;stroke-width:0.300009;stroke-opacity:1"
+       id="rect3"
+       width="45.901268"
+       height="0.62687618"
+       x="24.308867"
+       y="80.309807" />
+  </g>
+</svg>

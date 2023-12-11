@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.page_head {
+  max-width: 1280px;
+  align-self: center;
+  margin: 10px auto 10px auto;
+  display: grid;
+  grid-template-columns: 180px auto;
+}
+
+.menu_text_links {
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px 100px 100px 100px;
+}
+.logo_menu {
+  height: auto;
+  width: 180;
+}
+
+.product_select {
+  border: none;
+  background-color: white;
+  color: black;
+}
